@@ -1,1 +1,1 @@
-# Hello! I'm Arvey Jemil Mallari, a graduate of Bachelor of Science in Psychology. For the past few months, I've been learning skills required for Data Analytics. As such, this repository will be used for storage of my projects to showcase my technical skills. 
+Hello! I'm Arvey Jemil Mallari, a graduate of Bachelor of Science in Psychology. For the past few months, I've been learning skills required for Data Analytics. As such, this repository will be used for storage of my projects to showcase my technical skills. 
